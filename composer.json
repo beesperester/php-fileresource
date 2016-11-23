@@ -1,0 +1,8 @@
+{
+    "name": "beesperester/php-fileresource",
+    "autoload": {
+        "psr-4" : {
+            "BeEsperester\\Fileresource\\" : "src/BeEsperester/Fileresource"
+        }
+    }
+}
