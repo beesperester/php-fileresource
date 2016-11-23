@@ -4,5 +4,6 @@
         "psr-4" : {
             "BeEsperester\\Fileresource\\" : "src/BeEsperester/Fileresource"
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
