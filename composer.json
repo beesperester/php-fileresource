@@ -2,7 +2,7 @@
     "name": "beesperester/php-fileresource",
     "autoload": {
         "psr-4" : {
-            "BeEsperester\\Fileresource\\" : "src/BeEsperester/Fileresource"
+            "Beesperester\\Fileresource\\" : "src/Beesperester/Fileresource"
         }
     },
     "minimum-stability": "stable"
